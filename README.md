@@ -19,3 +19,7 @@ This project analyzes product sales using:
 1. Create SalesDB and Sales table in MSSQL
 2. Paste the data
 3. Open the notebook and run it
+
+## ⚙️ Setup Instructions
+1. Make sure Microsoft SQL Server is installed.
+2. Replace `YOUR_SERVER_NAME` in `sales_dashboard.ipynb` with your actual SQL Server name (found in SSMS login screen).
