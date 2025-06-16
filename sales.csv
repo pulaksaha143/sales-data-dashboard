@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,date
+1,John Doe,Laptop,1,55000,2024-01-12
+2,Jane Smith,Mouse,2,500,2024-01-13
+3,John Doe,Keyboard,1,1000,2024-01-15
+4,Amit Roy,Monitor,1,8000,2024-01-16
+5,Meena Kumari,Laptop,1,56000,2024-02-01
